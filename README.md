@@ -5,6 +5,7 @@ npm install
 npm start
 ```
 
+Link to the app: https://extensionleadstracker.netlify.app/
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
 
